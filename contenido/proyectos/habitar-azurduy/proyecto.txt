@@ -1,0 +1,20 @@
+# Ficha del proyecto. Las líneas que empiezan con # no se publican.
+# Completá lo que sepas: los datos vacíos no se muestran en el sitio.
+
+nombre: Habitar Azurduy
+categoria: Edificios
+ubicacion:
+año:
+superficie:
+rol:
+estado:
+desarrollo:
+fotografia:
+
+# Orden en el sitio (más chico = más arriba) y si aparece en el inicio (si / no).
+orden: 40
+destacado: si
+# portada: 01.jpg   (si no se indica, se usa la primera foto)
+
+---
+# Debajo de la línea de guiones va el texto del proyecto (opcional, 2 o 3 líneas).

@@ -1,0 +1,21 @@
+# Ficha del proyecto. Las líneas que empiezan con # no se publican.
+# Completá lo que sepas: los datos vacíos no se muestran en el sitio.
+
+nombre: Habitar Gamarra
+categoria: Edificios
+ubicacion: Parque Chas, CABA
+año: 2019
+superficie:
+rol: Proyecto y dirección de obra
+estado:
+desarrollo: Habitar, fideicomiso al costo
+fotografia:
+
+# Orden en el sitio (más chico = más arriba) y si aparece en el inicio (si / no).
+orden: 60
+destacado: si
+# portada: 01.jpg   (si no se indica, se usa la primera foto)
+
+---
+# Debajo de la línea de guiones va el texto del proyecto (opcional, 2 o 3 líneas).
+Unidades de 3 y 4 ambientes en bloques separados. La obra empezó en 2018 y terminó en 2019.

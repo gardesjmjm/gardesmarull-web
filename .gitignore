@@ -1,0 +1,11 @@
+# Dependencias y archivos generados (se recrean con npm install / npm run build)
+node_modules/
+publicar/
+vista-previa/
+.cache/
+
+# Sistema
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,46 @@
+{
+  "nombre": "Gardes Marull arquitectos",
+  "url": "https://gardesmarull.com.ar",
+  "titulo_inicio": "Gardes Marull arquitectos | Arquitectura y BIM en Buenos Aires",
+  "lema": "Diseñamos, modelamos, construimos.",
+  "presentacion": "Somos un estudio de arquitectura de Buenos Aires. Desde 2015 proyectamos, dirigimos obras y desarrollamos modelos BIM, buscando siempre el potencial propio de cada diseño. Diseñamos para construir. Construimos para habitar.",
+  "descripcion": "Estudio de arquitectura en Buenos Aires: proyecto, dirección de obra y modelado BIM para viviendas, edificios y desarrollos, desde 2015.",
+  "email": "info@gardesmarull.com.ar",
+  "whatsapp": "5491178178148",
+  "whatsapp_mensaje": "Hola, me contacto a través del sitio gardesmarull.com.ar",
+  "telefono": "11 7817-8148",
+  "telefono_internacional": "+54 9 11 7817-8148",
+  "direccion": "Av. Triunvirato 4482",
+  "localidad": "Villa Urquiza, CABA",
+  "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Triunvirato%204482%2C%20Ciudad%20de%20Buenos%20Aires",
+  "redes": {
+    "Instagram": "https://www.instagram.com/gardesmarull",
+    "Facebook": "https://www.facebook.com/gardesmarull",
+    "LinkedIn": "https://www.linkedin.com/company/gardesmarull/"
+  },
+  "categorias": [
+    "Viviendas",
+    "Edificios",
+    "Institucional"
+  ],
+  "portadas": [
+    {
+      "foto": "casa-bosque-alto/01.jpg",
+      "encuadre": "60% 50%"
+    },
+    {
+      "foto": "quincho-villa-ruiz/02.jpg",
+      "encuadre": "62% 50%"
+    },
+    {
+      "foto": "habitar-giribone/01.webp",
+      "encuadre": "50% 50%"
+    },
+    {
+      "foto": "casa-vh/01.webp",
+      "encuadre": "50% 45%"
+    }
+  ],
+  "formulario_url": "",
+  "google_analytics": "G-E4V4J0NVNB"
+}

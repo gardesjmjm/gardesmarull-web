@@ -1,0 +1,21 @@
+{
+  "name": "gardesmarull-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio estático de Gardes Marull arquitectos (gardesmarull.com.ar)",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "build": "node scripts/construir.mjs",
+    "dev": "node scripts/construir.mjs && node scripts/servir.mjs --vigilar",
+    "ver": "node scripts/servir.mjs",
+    "nuevo": "node scripts/nuevo-proyecto.mjs",
+    "verificar": "node scripts/verificar.mjs",
+    "vista-previa": "node scripts/construir.mjs --vista-previa"
+  },
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
+}

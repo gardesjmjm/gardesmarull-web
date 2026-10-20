@@ -1,0 +1,22 @@
+# Ficha del proyecto. Las líneas que empiezan con # no se publican.
+# Completá lo que sepas: los datos vacíos no se muestran en el sitio.
+# En el sitio anterior figuraba como «Habitar Terrazas Chorroarín».
+
+nombre: Habitar Chorroarín
+categoria: Edificios
+ubicacion: Villa Ortúzar, CABA
+año:
+superficie:
+rol:
+estado:
+desarrollo: Habitar, fideicomiso al costo
+fotografia:
+
+# Orden en el sitio (más chico = más arriba) y si aparece en el inicio (si / no).
+orden: 80
+destacado: si
+# portada: 01.jpg   (si no se indica, se usa la primera foto)
+
+---
+# Debajo de la línea de guiones va el texto del proyecto (opcional, 2 o 3 líneas).
+Semipisos de 2 ambientes con terrazas y parrillas, terraza verde común y servicios. En planta baja y subsuelo, un local comercial y oficinas.
