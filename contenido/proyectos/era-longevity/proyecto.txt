@@ -2,7 +2,7 @@
 # Completá lo que sepas: los datos vacíos no se muestran en el sitio.
 
 nombre: ERA Longevity
-# categoria: una de Viviendas, Edificios, Institucional
+# categoria: Institucional
 categoria: Viviendas
 ubicacion:
 año: 2026
