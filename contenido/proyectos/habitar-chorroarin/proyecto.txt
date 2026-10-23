@@ -9,7 +9,7 @@ año: 2023
 superficie: 1100 m2
 rol: Proyecto
 estado: Obra no iniciada
-desarrollo: Habitar, fideicomiso al costo
+desarrollo: Habitar Desarrollos S.A.
 fotografia:
 
 # Orden en el sitio (más chico = más arriba) y si aparece en el inicio (si / no).

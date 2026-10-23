@@ -8,7 +8,7 @@ año: 2019
 superficie: 750 m2
 rol: Proyecto y dirección de obra
 estado: Obra finalizada
-desarrollo: Habitar, fideicomiso al costo
+desarrollo: Habitar Desarrollos S.A.
 fotografia:
 
 # Orden en el sitio (más chico = más arriba) y si aparece en el inicio (si / no).
