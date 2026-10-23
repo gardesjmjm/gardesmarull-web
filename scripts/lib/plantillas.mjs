@@ -30,6 +30,11 @@ export class EstilosGenerados {
     this.reglas.set(c, `@media (min-width:601px){.${c}{flex:${v} 1 0}}`);
     return c;
   }
+  anchoMaximo(px) {
+    const c = `w-${px}`;
+    this.reglas.set(c, `.${c}{width:min(100%,${px}px)}`);
+    return c;
+  }
   orden(n) {
     const c = `o-${n}`;
     this.reglas.set(c, `.${c}{order:${n}}`);
@@ -430,6 +435,12 @@ ${tarjetas}
         i += 2;
       } else if (esVertical(actual)) {
         filas.push(`<div class="galeria__fila galeria__fila--vertical">${figura(actual, i, { sizes: '(min-width: 1310px) 720px, (min-width: 601px) 62vw, calc(100vw - 32px)' })}</div>`);
+        i += 1;
+      } else if (actual.img.ancho < 1180) {
+        // Imagen más chica que el ancho de la página: centrada en su tamaño real, sin estirarla.
+        filas.push(
+          `<div class="galeria__fila galeria__fila--chica">${figura(actual, i, { sizes: `(min-width: ${actual.img.ancho + 130}px) ${actual.img.ancho}px, calc(100vw - 32px)`, flex: estilos.anchoMaximo(actual.img.ancho) })}</div>`
+        );
         i += 1;
       } else {
         filas.push(`<div class="galeria__fila">${figura(actual, i, { sizes: completa })}</div>`);

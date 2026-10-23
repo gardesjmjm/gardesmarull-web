@@ -679,6 +679,19 @@ h3 {
   flex: 0 1 auto;
   width: min(100%, 720px);
 }
+.galeria__fila--chica {
+  justify-content: center;
+}
+.galeria__fila--chica > .galeria__foto {
+  flex: 0 1 auto;
+}
+.galeria__fila--chica .galeria__enlace {
+  background-color: transparent;
+}
+/* En las filas de a dos, la foto llena su lugar aunque sea un poco más chica. */
+.galeria__fila:not(.galeria__fila--vertical):not(.galeria__fila--chica) img {
+  width: 100%;
+}
 .galeria__fila--vertical img {
   max-height: 92vh;
   width: auto;
