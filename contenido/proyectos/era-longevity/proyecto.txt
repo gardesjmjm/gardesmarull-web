@@ -2,8 +2,8 @@
 # Completá lo que sepas: los datos vacíos no se muestran en el sitio.
 
 nombre: ERA Longevity
-# categoria: Institucional
-categoria: Viviendas
+# categoria: una de Viviendas, Edificios, Institucional
+categoria: Institucional
 ubicacion:
 año: 2026
 superficie: 1000 m2
