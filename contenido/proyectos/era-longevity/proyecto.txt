@@ -1,0 +1,21 @@
+# Ficha del proyecto. Las líneas que empiezan con # no se publican.
+# Completá lo que sepas: los datos vacíos no se muestran en el sitio.
+
+nombre: ERA Longevity
+# categoria: una de Viviendas, Edificios, Institucional
+categoria: Viviendas
+ubicacion:
+año: 2026
+superficie: 1000 m2
+rol: Proyecto y Dirección de obra e interiorismo
+estado: Finalizado
+desarrollo:
+fotografia: 
+
+# Orden en el sitio (más chico = más arriba) y si aparece en el inicio (si / no).
+orden: -10
+destacado: si
+# portada: 01.jpg   (si no se indica, se usa la primera foto)
+
+---
+# Debajo de la línea de guiones va el texto del proyecto (opcional, 2 o 3 líneas).

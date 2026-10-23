@@ -25,9 +25,10 @@ npm run nuevo -- "Casa Las Lomas"
 ```
 
 1. Eso crea `contenido/proyectos/casa-las-lomas/proyecto.txt`. Copiá ahí las fotos, numeradas: `01.jpg`, `02.jpg`, `03.jpg`… (un proyecto sin fotos no se publica).
-2. Completá los datos en `proyecto.txt` (lo que no sepas, dejalo vacío).
-3. Miralo antes de publicar: `npm run dev` y abrí http://localhost:8080 (se actualiza solo cuando guardás cambios; recargá la página).
-4. Publicalo:
+2. Achicá los originales (no hace falta comprimirlas a mano): `npm run fotos -- casa-las-lomas`. Las deja en 3000 px como máximo y sin datos de la cámara; así el repositorio no se llena de fotos de 15 MB. Copiá las fotos a la carpeta, no las muevas: este paso modifica los archivos.
+3. Completá los datos en `proyecto.txt` (lo que no sepas, dejalo vacío).
+4. Miralo antes de publicar: `npm run dev` y abrí http://localhost:8080 (se actualiza solo cuando guardás cambios; recargá la página).
+5. Publicalo:
 
 ```powershell
 git add -A; if ($?) { git commit -m "Nuevo proyecto: Casa Las Lomas" }; if ($?) { git push }
@@ -90,6 +91,7 @@ Las líneas que empiezan con `#` son comentarios y no se publican.
 | `npm run build` | Construye el sitio en `publicar/` |
 | `npm run verificar` | Revisa enlaces rotos, títulos, textos alternativos y redirecciones |
 | `npm run nuevo -- "Nombre"` | Crea un proyecto nuevo |
+| `npm run fotos -- carpeta` | Achica los originales de un proyecto (sin carpeta: todos) |
 
 ## Si la carpeta está en Dropbox
 
