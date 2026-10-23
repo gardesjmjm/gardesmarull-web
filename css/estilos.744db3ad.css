@@ -679,6 +679,19 @@ h3 {
   flex: 0 1 auto;
   width: min(100%, 720px);
 }
+.galeria__fila--chica {
+  justify-content: center;
+}
+.galeria__fila--chica > .galeria__foto {
+  flex: 0 1 auto;
+}
+.galeria__fila--chica .galeria__enlace {
+  background-color: transparent;
+}
+/* En las filas de a dos, la foto llena su lugar aunque sea un poco más chica. */
+.galeria__fila:not(.galeria__fila--vertical):not(.galeria__fila--chica) img {
+  width: 100%;
+}
 .galeria__fila--vertical img {
   max-height: 92vh;
   width: auto;
@@ -1274,7 +1287,7 @@ h3 {
 .o-13{order:13}
 .c-8c922aaf{background-color:#d5dee6}
 .o-16{order:16}
-.c-0a0dd1f3{background-color:#f0f4f3}
+.c-49aeb8ef{background-color:#c3d1dd}
 .o-1{order:1}
 .c-c0a5816d{background-color:#ebf4f3}
 .o-3{order:3}
@@ -1331,7 +1344,7 @@ h3 {
 .c-31876d31{background-color:#babab9}
 .c-9ef8f0c0{background-color:#b1b1b0}
 .c-ad6d9caf{background-color:#bab6b0}
-.c-49aeb8ef{background-color:#c3d1dd}
+.c-0a0dd1f3{background-color:#f0f4f3}
 @media (min-width:601px){.f-80{flex:80 1 0}}
 .c-d8750154{background-color:#f4f4ee}
 .c-b0dab457{background-color:#e2ded4}
@@ -1348,11 +1361,15 @@ h3 {
 .c-672c14e9{background-color:#ebe7e6}
 .c-0567d549{background-color:#dededd}
 .c-69f90c8f{background-color:#e2e7ee}
+.w-1114{width:min(100%,1114px)}
 .c-fb47ac3d{background-color:#d1e2f3}
 .c-f8a4dc93{background-color:#e2e7f3}
 .c-900815af{background-color:#c8d1e6}
 .c-4d22bbbb{background-color:#c8c8c2}
+.w-794{width:min(100%,794px)}
+.w-1152{width:min(100%,1152px)}
 .c-3caec887{background-color:#f4f4f3}
+.w-1024{width:min(100%,1024px)}
 .c-081b9798{background-color:#c8bab0}
 .c-f27818de{background-color:#c8bab0}
 @media (min-width:601px){.f-56{flex:56 1 0}}
@@ -1399,6 +1416,7 @@ h3 {
 .c-2d7a67a0{background-color:#f0ebea}
 .c-c901d39c{background-color:#f4f4f3}
 .c-28860035{background-color:#dadee1}
+.w-980{width:min(100%,980px)}
 .c-0245f58f{background-color:#dee7f3}
 .c-09151d83{background-color:#f4f4f3}
 .c-a726534f{background-color:#f0ebea}
@@ -1429,6 +1447,7 @@ h3 {
 @media (min-width:601px){.f-62{flex:62 1 0}}
 .c-5fbb1f0f{background-color:#f4f4f3}
 .c-3e9bccbf{background-color:#f4f4f3}
+.w-869{width:min(100%,869px)}
 .c-b4a56ce7{background-color:#b6b6b4}
 .c-7f4a5af0{background-color:#c3bfb9}
 .c-5b4e5e67{background-color:#f0f0ee}
