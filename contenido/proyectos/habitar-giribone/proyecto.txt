@@ -5,9 +5,9 @@ nombre: Habitar Giribone
 categoria: Edificios
 ubicacion: Villa Ortúzar, CABA
 año: 2023
-superficie:
+superficie: 1050 m2
 rol: Proyecto y dirección de obra
-estado:
+estado: Obra finalizada
 desarrollo: Habitar, fideicomiso al costo
 fotografia:
 

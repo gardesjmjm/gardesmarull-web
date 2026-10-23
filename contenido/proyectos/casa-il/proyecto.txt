@@ -3,11 +3,11 @@
 
 nombre: Casa IL
 categoria: Viviendas
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Bahía Blanca, Prov. de Bs. As.
+año: 2025
+superficie: 330 m2
+rol: Proyecto
+estado: Obra finalizada
 desarrollo:
 fotografia:
 

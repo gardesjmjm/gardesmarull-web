@@ -3,11 +3,11 @@
 
 nombre: Casa EF
 categoria: Viviendas
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Concordia, Entre Ríos
+año: 2022
+superficie: 180 m2
+rol: Proyecto y supervisión de obra
+estado: Obra finalizada
 desarrollo:
 fotografia:
 

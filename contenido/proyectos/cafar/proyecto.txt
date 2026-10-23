@@ -3,11 +3,11 @@
 
 nombre: CAFAR
 categoria: Edificios
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: La Plata, Provincia de Bs. As.
+año: 2014
+superficie: 3000 m2
+rol: Anteproyecto para concurso
+estado: Solo anteproyecto
 desarrollo:
 fotografia:
 

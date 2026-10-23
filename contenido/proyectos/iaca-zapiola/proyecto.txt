@@ -4,11 +4,11 @@
 
 nombre: IACA laboratorios 4
 categoria: Institucional
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Bahía Blanca, Prov. de Bs. As.
+año: 2026
+superficie: 2000 m2
+rol: Proyecto y supervisión de obra
+estado: En obra
 desarrollo:
 fotografia:
 

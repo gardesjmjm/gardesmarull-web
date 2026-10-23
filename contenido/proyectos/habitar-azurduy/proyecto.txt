@@ -3,11 +3,11 @@
 
 nombre: Habitar Azurduy
 categoria: Edificios
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: CABA
+año: 2026
+superficie: 950 m2
+rol: Proyecto y dirección de obra
+estado: En obra
 desarrollo:
 fotografia:
 

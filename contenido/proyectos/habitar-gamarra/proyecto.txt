@@ -5,9 +5,9 @@ nombre: Habitar Gamarra
 categoria: Edificios
 ubicacion: Parque Chas, CABA
 año: 2019
-superficie:
+superficie: 750 m2
 rol: Proyecto y dirección de obra
-estado:
+estado: Obra finalizada
 desarrollo: Habitar, fideicomiso al costo
 fotografia:
 

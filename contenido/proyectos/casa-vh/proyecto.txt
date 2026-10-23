@@ -3,11 +3,11 @@
 
 nombre: Casa VH
 categoria: Viviendas
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Barrio La Magdalena, Canning, Bs. As.
+año: 2025
+superficie: 170 m2
+rol: Proyecto y dirección de obra
+estado: Obra finalizada
 desarrollo:
 fotografia:
 

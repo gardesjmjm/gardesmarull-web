@@ -3,11 +3,11 @@
 
 nombre: Casa MT
 categoria: Viviendas
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Concordia, Entre Ríos
+año: 2022
+superficie: 240 m2
+rol: Proyecto
+estado: Obra no iniciada
 desarrollo:
 fotografia:
 

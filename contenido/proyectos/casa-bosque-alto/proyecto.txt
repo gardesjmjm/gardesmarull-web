@@ -3,11 +3,11 @@
 
 nombre: Casa Bosque Alto
 categoria: Viviendas
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Bahía Blanca, Prov. de Bs. As.
+año: 2011
+superficie: 300 m2
+rol: Proyecto y supervisión de obra
+estado: Obra finalizada
 desarrollo:
 fotografia:
 

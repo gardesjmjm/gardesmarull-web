@@ -3,11 +3,11 @@
 
 nombre: Habitar Moreno
 categoria: Edificios
-ubicacion:
-año:
-superficie:
-rol:
-estado:
+ubicacion: Bahía Blanca, Prov. de Bs. As.
+año: 2022
+superficie: 1300 m2
+rol: Proyecto
+estado: Obra no iniciada
 desarrollo:
 fotografia:
 

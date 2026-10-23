@@ -5,10 +5,10 @@
 nombre: Habitar Chorroarín
 categoria: Edificios
 ubicacion: Villa Ortúzar, CABA
-año:
-superficie:
-rol:
-estado:
+año: 2023
+superficie: 1100 m2
+rol: Proyecto
+estado: Obra no iniciada
 desarrollo: Habitar, fideicomiso al costo
 fotografia:
 
