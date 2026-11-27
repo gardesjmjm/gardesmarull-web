@@ -1,4 +1,4 @@
 Contact: mailto:info@gardesmarull.com.ar
-Expires: 2027-11-20T20:46:26.945Z
+Expires: 2027-11-27T22:01:57.251Z
 Preferred-Languages: es, en
 Canonical: https://gardesmarull.com.ar/.well-known/security.txt

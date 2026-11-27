@@ -117,7 +117,7 @@ RewriteRule ^wp-content/uploads/2019/11/tumblr_plhgm84pWx1w4mnx6o2_1280(?:-scale
 RewriteRule ^wp-content/uploads/2024/01/IMG_20230707_180143454-EDIT-2-Medium(?:-scaled)?(?:-\d+x\d+)?\.webp$ /proyectos/habitar-giribone/01-1114.b4909c2e.webp [R=301,L]
 RewriteRule ^wp-content/uploads/2024/01/IMG_20230707_180307133_HDR-EDIT-Medium(?:-scaled)?(?:-\d+x\d+)?\.webp$ /proyectos/habitar-giribone/02-627.c0a5816d.webp [R=301,L]
 RewriteRule ^wp-content/uploads/2024/01/IMG_20230707_164452153-edit-Medium(?:-scaled)?(?:-\d+x\d+)?\.webp$ /proyectos/habitar-giribone/03-768.fb47ac3d.webp [R=301,L]
-RewriteRule ^wp-content/uploads/2026/02/EDIT-1-Medium(?:-scaled)?(?:-\d+x\d+)?\.png$ /proyectos/habitar-azurduy/01-794.ef584983.webp [R=301,L]
+RewriteRule ^wp-content/uploads/2026/02/EDIT-1-Medium(?:-scaled)?(?:-\d+x\d+)?\.png$ /proyectos/habitar-azurduy/ [R=301,L]
 RewriteRule ^wp-content/uploads/2020/04/EDITH-LA-POST-IMG_20200403_185417(?:-scaled)?(?:-\d+x\d+)?\.jpg$ /proyectos/habitar-gamarra/01-854.887a8441.webp [R=301,L]
 RewriteRule ^wp-content/uploads/2020/04/EDIT-IMG_20200403_185251(?:-scaled)?(?:-\d+x\d+)?\.jpg$ /proyectos/habitar-gamarra/02-603.4a2be450.webp [R=301,L]
 RewriteRule ^wp-content/uploads/2025/12/vlcsnap-2025-12-19-16h21m58s052-Small(?:-scaled)?(?:-\d+x\d+)?\.png$ /proyectos/habitar-gamarra/03-480.f46388b3.webp [R=301,L]
